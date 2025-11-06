@@ -1,0 +1,4 @@
+Version 1.0.0
+Initial release – IoT simulation and data publishing examples
+Includes PDF overview and IoT demo ZIP
+Date: November 2025
