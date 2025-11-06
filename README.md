@@ -1,24 +1,46 @@
-# 🌐 IoT Solutions
+# IoT-Repositories
 
-A collection of open-source IoT projects and frameworks showcasing device connectivity, automation, and real-time communication.  
-These repositories are part of the **IT Solution Portfolio** platform under the *IoT* domain.
+This repository contains Internet of Things (IoT) examples including sensor data simulation and MQTT-based communication demos.  
+All examples are simplified for educational and prototype purposes.
 
-## 📂 Included Projects
-- **IoTivity Framework** — Open-source connectivity framework enabling device-to-device communication.  
-- **Raspberry Pi Sensor Network** — Collect and transmit real-time environmental data.  
-- **Smart Home Dashboard** — A dashboard to monitor and control IoT devices using APIs.
+---
 
-## ⚙️ Technologies Used
-- C / C++  
-- Python  
-- Node.js  
-- MQTT, CoAP, REST APIs  
-- Raspberry Pi / ESP32 hardware examples  
+## 📘 Contents
+- **overview.pdf** — Summary and documentation  
+- **IoT-Repositories.zip** — Sample IoT Python script and dataset  
+- **README.md** — Repository details  
+- **LICENSE** — MIT License  
+- **version.txt** — Version details  
 
-## 🚀 How to Run
-Each project folder has its own README file with setup steps.  
-Generally:
-```bash
-git clone https://github.com/<itsol-portfolio>/IoT-Solutions
-cd IoTivity-Framework
-python app.py
+---
+
+## 🌐 Domain
+**Internet of Things (IoT)**
+
+---
+
+## 🧰 Tools & Technologies
+- Python 3.x  
+- MQTT / Paho  
+- JSON Data Simulation  
+
+---
+
+## 🧠 Learning Objectives
+- Simulate sensor readings and data publishing  
+- Understand IoT data flow and message brokering  
+- Analyze basic device-to-cloud communication  
+
+---
+
+## 🏷️ Tags
+IoT, Sensors, MQTT, Data Simulation, Edge Computing
+
+---
+
+## 📜 License
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+---
+
+**Version:** 1.0.0 | **Date:** November 2025
